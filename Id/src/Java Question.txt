@@ -1,0 +1,10 @@
+1.List 和 set的区别
+2.ArrayList 和 LinkedList 的区别
+3.How hashmap works？
+4. 什么是Hash function
+5.hashmap 的 contains() 和 put()的时间复杂度
+6.如果hashcode相同的视乎如何处理.
+7.Class 和 interface 的区别
+8.inheritance 的特点
+9.final， finally， finalize 的用法和区别
+10. 多线程有关的问题，例：如什么是thread， how do u make threads, 如何避免 collision，how do u make lock
